@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/my-resume-gbot/',
+  base: '/GrantOmyer-Resume/',
   server: { port: 5173, open: true }
 });
